@@ -1,4 +1,4 @@
----
+6acca22e4793ede84d7f6fa89e10f610c53cb440---
 title: About permissions for GitHub Packages
 intro: Learn about how to manage permissions for your packages.
 product: '{% data reusables.gated-features.packages %}'
